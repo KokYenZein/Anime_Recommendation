@@ -2,7 +2,7 @@
 This is a machine learning project that aims to build an Anime Recommendation System using the Cosine Similarity Model. The system will analyze user preferences and provide personalized anime recommendations based on similarities between users and anime items in the dataset.
 
 # Dataset
-The dataset used for this project is sourced from Kaggle and is provided by Cooper Union. It is called the "Anime Recommendations Database" and can be accessed via the following link: Anime Recommendations Database.
+The dataset used for this project is sourced from Kaggle and is provided by Cooper Union. It is called the "Anime Recommendations Database" and can be accessed via the following link: [Anime Recommendations Database](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database).
 
 The dataset consists of two main files:
 
